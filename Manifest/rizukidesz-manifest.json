@@ -10,12 +10,12 @@
   "theme_color": "#4A90E2",
   "icons": [
     {
-      "src": "/path/to/icon-192x192.png",
+      "src": "https://raw.githubusercontent.com/rizukurizu/psychic-potato/refs/heads/main/Favicon/RizukiDesz/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/path/to/icon-512x512.png",
+      "src": "https://raw.githubusercontent.com/rizukurizu/psychic-potato/refs/heads/main/Favicon/RizukiDesz/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
